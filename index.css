@@ -1,0 +1,233 @@
+.Top {
+    color: black;
+    padding:30px;
+    font-size: 30px;
+}
+.Top span {
+    color: blue;
+}
+.Top ul li a {
+    display: flex;
+    text-decoration: none;
+    color: black;
+}
+.Top ul {
+    justify-content: space-between;
+    display: flex;
+    width: 55%;
+    float: right;
+    list-style-type: none;
+    margin-top: -30px;
+}
+.request {
+background-color: blue;
+color: white;
+font-size:20px ;
+border-style: none;
+padding-inline: 50px;
+padding-block: 15px;
+margin-top: -10px;
+}
+
+.customerservice {
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.customerservice h1 {
+color:white;
+font-size: 40px;
+padding-top: 120px;
+}
+.services{
+    text-align: center;
+margin-top: -20px;
+}
+
+.customerservice p{
+    color: white;
+
+}
+.ourservices {
+    background-color: blue;
+    border:none;
+    padding-inline: 20px;
+    padding-block: 10px;
+    color: white;
+    margin-right: 120px;
+}
+.touch { 
+    background-color:transparent;
+    border-color:white;
+    padding-inline: 20px;
+    padding-block: 10px;
+    color: white;
+    border-bottom-color: white;
+}
+.Aboutus {
+ padding: 50px;
+ font-size: 30px;
+}
+.Aboutus h2{
+    margin-top: 50px;
+}
+.Aboutus button{
+    background-color: blue;
+    border:none;
+    padding-inline: 20px;
+    padding-block: 10px;
+    color: white;
+}
+.image{
+    display: flex;
+    float: right;
+    margin-top: -380px;
+}
+
+.solutions {
+    background-image: url(images/Rectangle\ 11.png);
+height: 600px;
+background-size: cover;
+background-repeat: no-repeat;
+width: 1500px;
+text-align: center;
+color: white;
+}
+
+.solutions h1{
+    font-size: 20px;
+    padding-top: 100px;
+}
+.solutions h2{
+   font-size: 50px;
+}
+
+.Get{
+    background-color: blue;
+    border:none;
+    padding-inline: 20px;
+    padding-block: 10px;
+    color: white;
+}
+.serv h1{
+    text-align: center;
+
+}
+.air{
+    display: flex;
+    padding:50px;
+    justify-content: space-evenly;
+
+}
+
+.one{
+height: 400px;
+width: 347px;
+background-color:white;
+border-radius: 5px;
+box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.5), 0px 6px 4px 0px rgba(0, 0, 0, 0.19);
+}
+
+.two{
+    height: 400px;
+    width: 347px;
+    background-color:white;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.5), 0px 6px 4px 0px rgba(0, 0, 0, 0.19);
+    }
+
+    .three{
+        height: 400px;
+        width: 347px;
+        background-color:white;
+        border-radius: 5px;
+        box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.5), 0px 6px 4px 0px rgba(0, 0, 0, 0.19);
+        }
+.air h1{
+    margin-left: 30px;
+}
+.air p{
+    margin-left: 30px;
+}
+.contacts{
+    background-color: blue;
+    color: white;
+    height: 600px;
+    padding: 100px;
+    font-size: 25px;
+}
+.contacts h3{
+    font-size: 40px;
+}
+form {
+    background-color:white;
+    height: 580px;
+    width: 700px;
+    margin-left: 600px;
+    margin-top: -500px;
+    color: black;
+}
+footer{
+background-color: rgb(3, 3, 15);
+text-align: center;
+font-size: 10px;
+background-size: cover;
+width: 1498px;
+margin-left:-100px;
+margin-top: -3.9px;
+padding: 30px;
+}
+.footer h1 {
+    top: 100px;
+}
+
+input[type=text], select, textarea {
+    margin: 10px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    width: 400px;
+}
+
+input[type=gmail], select, textarea {
+    margin: 10px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    margin-bottom: 30px;
+
+    width: 400px;
+}
+
+input[type=write], select, textarea {
+    margin: 10px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    width: 400px;
+    resize: vertical;
+}
+
+
+input[type=text] {
+    padding: 12px 12px;
+}
+
+input[type=gmail] {
+    padding: 12px 12px;
+}
+
+input[type=write] {
+    padding: 12px 12px;
+}
+
+input[type=send] {
+    background-color: darkblue;
+    color: #fff;
+    margin-left: 250px;
+    text-align: center;
+    border: none;
+    padding-inline: 20px;
+    padding-block: 10px;
+
+}
